@@ -4,4 +4,4 @@ I am working for Angels for Change, a volunteering organization, that wants to e
 # Roles
 Ada Lac - Project Manager
 Github: notadaa
-[Digital Portfolio] (https://codermerlin.academy/users/ada-lac/Digital%20Portfolio/)
+[Digital Portfolio](https://codermerlin.academy/users/ada-lac/Digital%20Portfolio/)
